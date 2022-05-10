@@ -12,7 +12,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="pic" height="150" style="border-radius:65px;" src="https://cdn.discordapp.com/attachments/779206258082185217/933003533429653564/download20211004144650.png">
-   <img src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-flag-world-pride-day-wanicon-lineal-color-wanicon.png"/>
+   <img align="right" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/000000/external-flag-world-pride-day-wanicon-lineal-color-wanicon.png"/>
    
 </div>
 
