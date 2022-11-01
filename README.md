@@ -3,6 +3,7 @@
 
 <h3> 🖐 &nbsp;Sobre mim </h3>
 
+- 🤗 &nbsp; Meu nome é Matheus Moura, tenho 22 anos e moro em Sorocaba
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando DevOps no <a href=https://fullcycle.com.br/>Full Clycle</a>.
 - 🌱 &nbsp; Aprendendo Ruby on Rails no <a href=https://pragmaticstudio.com//>Pragmatic Studio</a>.
