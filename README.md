@@ -52,7 +52,7 @@
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3 align="center" > :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <p align="left">
   <p align="center">
