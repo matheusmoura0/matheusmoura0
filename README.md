@@ -55,17 +55,12 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 <p align="left">
-  <a href="=matheusmoura28974@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=matheusmoura28974@gmail.com" /></a>
-
-  <a href="#" alt="Whatsapp">
-  <img src="https://img.shields.io/badge/-Whatsapp-0e76a8?style=flat-square&logo=Whatsapp&logoColor=white&link=https://wa.me/5515991775486" /></a>
-  
-  
-  
-  
-  <a href="(https://www.linkedin.com/in/matheusmoura231)" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&1/" /></a>
+  <p align="center">
+	<a href="mailto:matheusmoura2110@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	</a>
+	<a href="https://api.whatsapp.com/send?phone=5515991775486"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://www.linkedin.com/in/matheusmoura231//"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	
 
 
 </p>  
