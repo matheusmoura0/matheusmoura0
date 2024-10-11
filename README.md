@@ -3,7 +3,7 @@
 <h3> 🖐 &nbsp;Sobre mim </h3>
 
 - 🤗 &nbsp; Meu nome é Matheus Moura, tenho 24 anos e moro em Sorocaba.
-- 💼 &nbsp; Atualmente, sou desenvolvedor backend jr na <a href="https://humanoide.co/">Humanoide.co</a>.
+- 💼 &nbsp; Atualmente, sou desenvolvedor backend jr na <a href="https://www.humanoide.dev/">Humanoide.dev</a>.
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando DevOps no <a href=https://fullcycle.com.br/>Full Cycle</a>.
 - 🌱 &nbsp; Apaixonado por desenvolvimento backend e sempre buscando aprender mais sobre Ruby on Rails.
