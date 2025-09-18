@@ -11,7 +11,7 @@
 
 ## 🚀 Tecnologias  
 
-**Backend:** Ruby on Rails · Ruby · Node.js · Python  
+**Backend:** Ruby on Rails · Ruby · Node.js · Python  · Golang  
 **Frontend:** React · TypeScript · JavaScript · HTML · CSS  
 **Banco de Dados:** PostgreSQL · MySQL  
 **Testes:** RSpec · Jest  
